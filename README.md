@@ -1,4 +1,7 @@
-<h1> Alura-Studies</h1>
+# Alura-Studies
 
-<h2>Meu primeiro projeto em React<h2> 
-Este projeto é do primeiro modulo de React da Alura
+Este projeto é referente ao primeiro modulo de React da Alura e acabou sendo o meu primeiro projeto em React
+
+#Cronometro de estudos
+
+Você pode adicionar alguma matéria e colocar o tempo que quer estudar, depois que clicar em adcionar essa matéria ficará em uma lista, onde você pode selecioná-la e começar o cronometro de estudo.
