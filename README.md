@@ -1,4 +1,4 @@
-# Alura-Studies
+<h1> Alura-Studies</h1>
 
 <h2>Meu primeiro projeto em React<h2> 
-<p>Este projeto é do primeiro modulo de React da Alura</p>
+Este projeto é do primeiro modulo de React da Alura
